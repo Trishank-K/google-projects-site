@@ -9,4 +9,4 @@ Bot Pipeline is a personal Discord bot. When I finish a short video, it uploads 
 - **Google access:** only the `drive.file` permission. The app can see and change only the files and the folder it creates itself, and nothing else in the Drive.
 - **Who uses it:** only me, on my own computer. It isn't offered to anyone else.
 
-[Privacy policy](privacy) · [All projects](../)
+[Privacy policy](privacy) · [Terms of service](terms) · [All projects](../)

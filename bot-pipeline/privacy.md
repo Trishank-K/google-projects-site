@@ -38,4 +38,4 @@ You can remove the app's access at any time at <https://myaccount.google.com/per
 
 Changes to this policy are published on this page with a new effective date. For questions, [open an issue](https://github.com/Trishank-K/google-projects-site/issues).
 
-[Bot Pipeline](./) · [All projects](../)
+[Bot Pipeline](./) · [Terms of service](terms) · [All projects](../)
