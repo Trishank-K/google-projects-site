@@ -1,12 +1,12 @@
 ---
-title: Reel Courier privacy policy
+title: Bot Pipeline privacy policy
 ---
 
-# Reel Courier privacy policy
+# Bot Pipeline privacy policy
 
 _Effective 26 November 2026_
 
-Reel Courier is a personal Discord bot run by Trishank-K on their own computer, for their own use. This policy explains what it does with data from Google.
+Bot Pipeline is a personal Discord bot run by Trishank-K on their own computer, for their own use. This policy explains what it does with data from Google.
 
 ## What the app accesses
 
@@ -28,7 +28,7 @@ The app uses Google data only to provide these features.
 - The app has no servers, analytics, advertising or tracking. It doesn't sell, rent or transfer Google user data to anyone.
 - The only data leaving Google Drive is the share link, title and thumbnail posted to the operator's Discord channel, as described above.
 
-Reel Courier's use and transfer of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
+Bot Pipeline's use and transfer of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
 ## Removing access
 
@@ -38,4 +38,4 @@ You can remove the app's access at any time at <https://myaccount.google.com/per
 
 Changes to this policy are published on this page with a new effective date. For questions, [open an issue](https://github.com/Trishank-K/google-projects-site/issues).
 
-[Reel Courier](./) · [All projects](../)
+[Bot Pipeline](./) · [All projects](../)
